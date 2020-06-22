@@ -99,3 +99,6 @@
 2020-06-19 10:29:04+08:00
  2020-06-19 | 10:29:04.748 | INFO  | 成功领取 Pathway (F2006190229041269)
 
+2020-06-22 10:28:29+08:00
+ 2020-06-22 | 10:28:28.919 | WARN  | Failed to claim Pathway (Error: errors.com.epicgames.purchase.purchase.captcha.challenge)
+
