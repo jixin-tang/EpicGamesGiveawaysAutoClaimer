@@ -203,3 +203,8 @@
  2020-07-30 | 10:28:44.259 | INFO  | Next Up Hero 已经领取
  2020-07-30 | 10:28:44.814 | WARN  | Failed to claim Tacoma (Error: errors.com.epicgames.purchase.purchase.captcha.challenge)
 
+2020-07-31 10:28:49+08:00
+ 2020-07-31 | 10:28:48.154 | INFO  | 成功领取 20XX (F2007310228485333)
+ 2020-07-31 | 10:28:48.976 | INFO  | 成功领取 Barony (F2007310228485391)
+ 2020-07-31 | 10:28:49.718 | INFO  | 成功领取 Superbrothers: Sword & Sworcery EP (F2007310228495449)
+
